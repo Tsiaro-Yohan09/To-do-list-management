@@ -5,4 +5,5 @@ env/
 *.pyc
 __pycache__/
 
+# Settings of the bdd
 .env
